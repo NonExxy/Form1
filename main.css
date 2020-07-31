@@ -1,0 +1,18 @@
+form {
+    font-family: 'Press Start 2P', cursive;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    text-align: center;
+    width: 400px;
+    margin: 33vh auto auto auto;
+}
+input {
+    margin-bottom: 10px;
+}
+input[type=submit] {
+    width: 380px;
+    margin: 10px 0 30px 0;
+}
+h2 {
+    padding-top: 20px;
+}
